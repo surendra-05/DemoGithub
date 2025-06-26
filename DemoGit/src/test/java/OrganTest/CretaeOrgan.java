@@ -3,9 +3,8 @@ package OrganTest;
 public class CretaeOrgan {
 
 	public static void main(String[] args) {
-		System.out.println("Organisation created successfully");
-		
-		System.out.println("Arnold Abel");
+		System.out.println("create organization");
+		System.out.println("created org by surendra");
 	}
 
 }

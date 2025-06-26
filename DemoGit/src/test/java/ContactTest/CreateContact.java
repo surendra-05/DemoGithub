@@ -3,9 +3,8 @@ package ContactTest;
 public class CreateContact {
 
 	public static void main(String[] args) {
-		System.out.println("Contact created Successfully");
-
-		System.out.println("Arnold Abel");
+		System.out.println("create a contact");
+		System.out.println("created a by surendra");
 		}
 
 }
